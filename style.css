@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+
+* {
+    font-family: 'Mali',
+        cursive;
+    line-height: 2rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Itim',
+        cursive;
+
+}
+
+.my-content {
+    background-color: #D8BBEA;
+}
+
+.feedback {
+    text-align: center;
+}
